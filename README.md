@@ -35,7 +35,3 @@ Contrairement à Lucas-Kanade, cette méthode calcule le mouvement pour chaque p
 * OpenCV (`opencv-python`)
 * NumPy
 
-### Exécution
-Assurez-vous que les fichiers vidéo (`bugs.mp4`, `bugs2.mp4`) sont présents dans le répertoire du projet, puis lancez le script :
-```bash
-python nom_du_script.py
